@@ -1,0 +1,4 @@
+.idea*
+target/*
+*.iml
+position_suggestion.csv
